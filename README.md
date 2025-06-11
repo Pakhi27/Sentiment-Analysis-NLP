@@ -1,19 +1,19 @@
 # Sentiment-Analysis-NLP
 
 
-# 🧠 Sentiment Analysis using NLP Techniques
+# Sentiment Analysis using NLP Techniques
 
 This project applies Natural Language Processing (NLP) methods on Amazon product reviews to analyze and classify sentiments. It combines rule-based (VADER) and transformer-based (RoBERTa) approaches, along with thorough exploratory data analysis and impactful visualizations.
 
 ---
 
-## 📌 Project Objective
+## Project Objective
 
 To perform sentiment analysis on customer reviews using both classical NLP techniques and state-of-the-art deep learning models. The aim is to identify and compare sentiment trends using both approaches and visualize their relationship with review ratings.
 
 ---
 
-## 📁 Dataset Description
+## Dataset Description
 
 - **Dataset**: Amazon Fine Food Reviews Dataset
 - **File Used**: `Reviews.csv`
@@ -32,7 +32,7 @@ To perform sentiment analysis on customer reviews using both classical NLP techn
 
 ---
 
-## ⚙️ Technologies and Libraries
+## Technologies and Libraries
 
 | Category             | Tools & Libraries                         |
 |----------------------|-------------------------------------------|
@@ -45,7 +45,7 @@ To perform sentiment analysis on customer reviews using both classical NLP techn
 
 ---
 
-## 🔍 Methodology
+##  Methodology
 
 ### 1. Exploratory Data Analysis (EDA)
 - Visualized review count per rating
@@ -70,7 +70,7 @@ To perform sentiment analysis on customer reviews using both classical NLP techn
 
 ---
 
-## 📈 Key Findings
+##  Key Findings
 
 - **VADER** performs well on short, explicit text.
 - **RoBERTa** handles complex and nuanced reviews more accurately.
@@ -89,7 +89,7 @@ To perform sentiment analysis on customer reviews using both classical NLP techn
 ---
 
 
-## 🚀 How to Run
+## How to Run
 
 ```bash
 # Clone this repository
@@ -105,7 +105,7 @@ jupyter notebook Sentiment_Analysis_NLP.ipynb
 
 ---
 
-## ✅ Future Enhancements
+## Future Enhancements
 
 - Fine-tune RoBERTa on domain-specific review data
 - Incorporate BERT + LSTM hybrid models for context-aware sentiment detection
@@ -114,7 +114,7 @@ jupyter notebook Sentiment_Analysis_NLP.ipynb
 ---
 
 
-## 🙏 Acknowledgements
+##  Acknowledgements
 
 - [NLTK - Natural Language Toolkit](https://www.nltk.org/)
 - [Hugging Face Transformers](https://huggingface.co/transformers/)
@@ -122,13 +122,13 @@ jupyter notebook Sentiment_Analysis_NLP.ipynb
 
 ---
 
-## 🧑‍💻 Author
+##  Author
 
 **Pakhi Singhal**  
 AI & ML Enthusiast 
 
 ---
 
-## 📜 License
+##  License
 
 This project is open-source and available under the [MIT License](LICENSE).
